@@ -7,4 +7,8 @@ Empty template with:
 - Connectio to Postgres DB
 - Angular for the web rendering
 
+Usage:
+- node bin/www
+- http://localhost:3000 
+
 
